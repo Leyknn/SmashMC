@@ -1,0 +1,7 @@
+main: me.Khagana.SmashMC.Main
+name: SmashMC
+author: Khagana
+version: 1.0.0
+
+commands:
+  sm:
